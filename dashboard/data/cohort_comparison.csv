@@ -1,0 +1,3 @@
+outcome,communities,avg_early_activity,avg_late_activity,avg_decline_percentage,avg_early_degree,avg_early_pagerank
+DECLINING,215,154.95,75.0,49.93,106.93,10.8607
+STABLE_OR_GROWING,172,144.0,242.05,0.00,120.41,12.3722
