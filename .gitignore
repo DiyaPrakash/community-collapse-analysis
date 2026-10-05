@@ -6,6 +6,8 @@
 *.log
 *.tmp
 
+venv/
+
 # Hadoop / Spark temporary files
 spark-warehouse/
 metastore_db/
